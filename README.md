@@ -14,4 +14,6 @@
 
 # 感谢
 
-**教程安利**：如果你也想了解大模型，可以去了解一下哦！[大模型实战营](https://github.com/InternLM/Tutorial)
+感谢助教blank_answer对大模型课程的安利和项目指导。
+
+如果你也想了解大模型，可以去了解一下哦！[大模型实战营](https://github.com/InternLM/Tutorial)
